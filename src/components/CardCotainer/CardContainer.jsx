@@ -4,7 +4,7 @@ import './cardcontainer.css'
 const CardContainer = ({cards}) => {
   return (
     <div className='cardContainer'>
-        <h2>Our Python tutoring offerings</h2>
+        <h2 className='mainHeading'>Our Python tutoring offerings</h2>
         <div className='cards'>
             {
                 cards.map((card, index)=>(

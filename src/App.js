@@ -12,7 +12,7 @@ function App() {
     },
     {
       heading : "Homework Help",
-      description : "Overcome academic challenges effortlessly with our homework help service. Our tutors for school and college are here to guide you through asignments, clarigy doubts and build confidence so you cn solve the toughest of problem.",
+      description : "Overcome academic challenges effortlessly with our homework help service. Our tutors for school and college are here to guide you through asignments, clarigy doubts and build confidence.",
       imgSrc : SecondImage 
     },
     {
